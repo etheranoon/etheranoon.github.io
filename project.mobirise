@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HERBOLARIOS.store",
-    "currentPage": "Herbolario-San-Pablo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -50,7 +50,7 @@
     ],
     "imageResize": true,
     "publishChangesOnly": false,
-    "uniqCompNum": 161,
+    "uniqCompNum": 186,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -65,8 +65,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Herbolarios.store | Servicios de diseño web (y marketing online) para Herbolarios.",
+        "meta_descr": "Prueba nuestra 'terapia digital integral' para vender más. Bienvenido al siglo XXI, te estábamos esperando!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1613,7 +1613,7 @@
     "page1.html": {
       "settings": {
         "title": "fichabasica",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3443,7 +3443,7 @@
     "legal.html": {
       "settings": {
         "title": "legal",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3875,7 +3875,7 @@
     "page4.html": {
       "settings": {
         "title": "herbolarios de GRANADA",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4333,7 +4333,7 @@
     "herboneveros.html": {
       "settings": {
         "title": "Herboneveros - Bola de Oro - Granada (GR)",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Herbolario y Centro Holístico"
       },
       "components": [
@@ -5731,7 +5731,7 @@
     "Herbolario-San-Pablo.html": {
       "settings": {
         "title": "Herbolario San Pablo - Granada (GR)",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Medicina y Salud"
       },
       "components": [
