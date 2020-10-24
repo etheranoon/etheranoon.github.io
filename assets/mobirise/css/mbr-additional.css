@@ -688,6 +688,29 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-sekZyfTTCT {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/cabecera-696x206.jpg");
+}
+.cid-sekZyfTTCT .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-sekZyfTTCT .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-sekZyfTTCT .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
 .cid-sdRFRmvVue {
   padding-top: 10rem;
   padding-bottom: 3rem;
@@ -721,22 +744,6 @@ a {
 }
 .cid-sdRFRmvVue .mbr-section-subtitle {
   color: #ffe161;
-}
-.cid-se7CPtkHn8 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-se7CPtkHn8 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-se7CPtkHn8 .row {
-  flex-direction: row-reverse;
-}
-.cid-se7CPtkHn8 img {
-  width: 100%;
 }
 .cid-sekDz7wB39 {
   padding-top: 6rem;
